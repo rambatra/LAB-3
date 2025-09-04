@@ -1,7 +1,8 @@
 # LAB-3
 Github Introduction
 
-** Project Title**
+**This text is bold**
+
 
 ## Introduction
 
