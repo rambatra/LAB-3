@@ -1,7 +1,7 @@
 # LAB-3
 _**Github Introduction**_
 **This text <sup>is</sup> bold**\
-**ram**
+~**ram**~
 
 ## Introduction
 
