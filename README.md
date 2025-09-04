@@ -1,7 +1,7 @@
 # LAB-3
 Github Introduction
 
-# Project Title
+** Project Title**
 
 ## Introduction
 
